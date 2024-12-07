@@ -2,7 +2,7 @@
 
 🚀 Exciting Insights from Blinkit Sales Data Analysis 🚀
 
-![Blinkit Sales Dashboard](https://github.com/madhusha3/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png?raw=true)
+![Blinkit Sales Dashboard!](https://github.com/madhusha3/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png?raw=true)
 
 Hey everyone! I recently completed a project using Excel to analyze Blinkit's sales data, and I uncovered some fascinating insights that I couldn't wait to share. Here's what I found:
 
